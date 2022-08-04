@@ -3,6 +3,10 @@ html {
   overflow-x: hidden;
 }
 
+.second-row {
+  margin-top: 15px;
+}
+
 body {
   background: #fff;
   font-size: 14px;
