@@ -14,11 +14,8 @@ html {
 .about-me-image {
   margin-top: 110px;
   margin-left: 50px;
-}
-
-.about-me-image .img {
-  width: 300px;
-  height: 300px;
+  width: 500px;
+  height: 500px;
 }
 
 body {
@@ -243,6 +240,10 @@ button:focus {
 }
 
 .social-icon li .linkedin:hover {
+  background: #1260A2;
+}
+
+.social-icon li .github:hover {
   background: #1260A2;
 }
 
@@ -480,8 +481,10 @@ a.back-to-top:hover, a.back-to-top:focus {
 .navbar-brand .img {
   position: relative;
   padding: 0px;
-  width: 160px;
-  height: 70px;
+  width: 200px;
+  height: 80px;
+  margin-bottom: -20px;
+  margin-top: -15px;
 }
 
 .top-nav-collapse {
@@ -501,10 +504,17 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .top-nav-collapse .navbar-brand {
   top: 0px;
+  width: 200px;
+  height: 80px;
+  margin-bottom: -20px;
+  margin-top: -15px;
 }
 
 .top-nav-collapse .navbar-brand img {
-  width: 45%;
+  width: 200px;
+  height: 80px;
+  margin-bottom: -20px;
+  margin-top: -15px;
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
