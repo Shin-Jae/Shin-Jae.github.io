@@ -13,8 +13,8 @@ html {
 
 .about-me-image {
   margin-top: 85px;
-  width: 500px;
-  height: 500px;
+  width: 470px;
+  height: 470px;
 }
 
 body {
@@ -484,8 +484,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .logo {
   width: 170px;
-  height: 120px;
-  margin-bottom: -10px;
+  height: 100px;
   margin-top: -5px;
 }
 
@@ -506,10 +505,6 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .top-nav-collapse .navbar-brand {
   top: 0px;
-}
-
-.top-nav-collapse .navbar-brand img {
-  width: 55%;
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
@@ -707,9 +702,6 @@ a.back-to-top:hover, a.back-to-top:focus {
     padding: 0px 15px;
     top: 0;
   }
-  .navbar-brand img {
-    width: 55%;
-  }
   #mobile-menu {
     display: none;
   }
@@ -804,6 +796,12 @@ a.back-to-top:hover, a.back-to-top:focus {
    ========================================================================== */
 #portfolios {
   background: #f2f2f2;
+  max-height: 500px;
+  overflow: hidden;
+}
+
+.hidden-images {
+  margin-bottom: 30px;
 }
 
 #portfolios .mix {
