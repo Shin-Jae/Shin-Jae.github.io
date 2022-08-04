@@ -4,7 +4,16 @@ html {
 }
 
 .second-row {
-  margin-top: 15px;
+  margin-top: 20px;
+}
+
+.last-row {
+  margin-bottom: -20px;
+}
+
+.about-me-image {
+  margin-top: 80px;
+  margin-left: 50px;
 }
 
 body {
