@@ -50,6 +50,8 @@
   }
   .navbar-brand img {
     margin: 5px 0;
+    width: 160px;
+    height: 70px;
   }
   #hero-area .contents {
     padding: 100px 0px 60px 0px;
