@@ -1,5 +1,5 @@
-Hello there, This is the repo for my personal site. 
+<h2>Hello there, This is the repo for my personal site. </h2>
 
-Check it out!
+<h3>Check it out!</h3>
 
-https://jaeshin.me/
+* https://jaeshin.me/
