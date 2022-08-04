@@ -12,8 +12,7 @@ html {
 }
 
 .about-me-image {
-  margin-top: 110px;
-  margin-left: 50px;
+  margin-top: 85px;
   width: 500px;
   height: 500px;
 }
@@ -481,10 +480,13 @@ a.back-to-top:hover, a.back-to-top:focus {
 .navbar-brand .img {
   position: relative;
   padding: 0px;
-  width: 200px;
-  height: 80px;
-  margin-bottom: -20px;
-  margin-top: -15px;
+}
+
+.logo {
+  width: 170px;
+  height: 120px;
+  margin-bottom: -10px;
+  margin-top: -5px;
 }
 
 .top-nav-collapse {
@@ -504,17 +506,10 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .top-nav-collapse .navbar-brand {
   top: 0px;
-  width: 200px;
-  height: 80px;
-  margin-bottom: -20px;
-  margin-top: -15px;
 }
 
 .top-nav-collapse .navbar-brand img {
-  width: 200px;
-  height: 80px;
-  margin-bottom: -20px;
-  margin-top: -15px;
+  width: 55%;
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
